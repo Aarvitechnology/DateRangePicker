@@ -1,0 +1,28 @@
+{
+    "name": "daterangepicker",
+    "version": "3.1.0",
+    "description": "Date range picker component for Bootstrap",
+    "main": "daterangepicker.js",
+    "style": "daterangepicker.css",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aarvitechnology/daterangepicker.git"
+    },
+    "author": {
+        "name": "Aarvi Technology",
+        "email": "info@aarvitechnology.com",
+        "url": "https://aarvitechnology.com/"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Aarvitechnology/daterangepicker/issues"
+    },
+    "homepage": "https://github.com/Aarvitechnology/daterangepicker",
+    "dependencies": {
+        "jquery": ">=1.10",
+        "moment": "^2.9.0"
+    }
+}
